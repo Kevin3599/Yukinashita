@@ -52,7 +52,7 @@ void loop() {
   for (i = 2; i <= 125; i++)
   {
     myLCD.drawRectF(2, 52, i, 61);
-    delay(1000);
+    delay(2000);
   }
   delay(1000);
 }
