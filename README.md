@@ -11,5 +11,3 @@ categorie：
 
 2.python播放器（开发中）
 
-![51028759_p0](https://user-images.githubusercontent.com/69574926/120952747-3beb1180-c77e-11eb-8865-ee448a819a4d.jpg)
-
